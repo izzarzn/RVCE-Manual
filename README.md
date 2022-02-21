@@ -6,6 +6,3 @@
 
 ## IDEA LAB MANUAL
 
-### This is my first pull request created by my org
-
-
