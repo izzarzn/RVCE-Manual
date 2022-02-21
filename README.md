@@ -1,13 +1,10 @@
 <p align="center">
-  <img width="100" height="100" src="https://user-images.githubusercontent.com/65058286/155003564-aeb7e47c-2d78-46cc-bc4d-f1583c85a2f8.png">
+  <img width="120" height="120" src="https://user-images.githubusercontent.com/65058286/155003564-aeb7e47c-2d78-46cc-bc4d-f1583c85a2f8.png">
 </p>
 
-<h2 align="center"> RV COLLEGE OF ENGINEERING <br>
- 
- (An Autonomous Institution Affiliated to VTU Belagavi ) <br> Approved by AICTE, New Delhi, Accridiated By NBA, New Delhi <br> RV Vidyaniketan Post, 8th Mile, Mysore Road, Bengaluru-560059
- </p>  </h2>
+<h2 align="center"> RV COLLEGE OF ENGINEERING </h2> <p align="center"> (An Autonomous Institution Affiliated to VTU Belagavi ) <br> Approved by AICTE, New Delhi, Accridiated By NBA, New Delhi <br> RV Vidyaniketan Post, 8th Mile, Mysore Road, Bengaluru-560059  </p>
 
-<h2 align="center"> IDEA LAB MANUAL </h2>
+<h3 align="center"> IDEA LAB MANUAL </h3>
 
  ### List of Experiments
 
