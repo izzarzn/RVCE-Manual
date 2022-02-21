@@ -13,7 +13,7 @@
 |1| Design an interface circuit to control LED light by push button switch using ESP8266. |
 |2| Design an Interface circuit for LDR (Light Dependent Resistor) with ESP8266 to measure the intensity of light and display it on a Serial monitor. |
 |3| Design an Interface circuit with 16X2 LCD AND ESP8266 to display “Hello World!” On LCD. |
-|4| Design an Interface circuit for OLED with ESP8266 AND Write a Program to display “RVCE” on OLED. |
+|4| Design an Interface circuit for OLED with ESP8266 and Write a Program to display “RVCE” on OLED. |
 |5| Design an interface circuit to rotate DC Motor in Clockwise and Anticlockwise direction using ESP8266 and demonstrate  the same. |
 |6| DESIGN an Interface circuit for Ultrasonic Sensor (HC-SR04) with ESP8266. Write a program to measure the distance and display it on LCD. |
 |7| Interface Bluetooth (HC-05) and LED with ESP8266. Write interfacing to Control LED (On/Off) using Bluetooth Serial Controller App. |
