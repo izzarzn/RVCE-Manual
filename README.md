@@ -6,14 +6,11 @@
 
 ## IDEA LAB MANUAL
 
-### Here are the List of Experiments
+### List of Experiments
 
-1.Design an interface circuit to control LED light by push button switch using ESP8266.
-
-2.Design an Interface circuit for LDR (Light Dependent Resistor) with ESP8266 to measure the intensity of light and display it on a Serial monitor.
-
-3.Design an Interface circuit with 16X2 LCD AND ESP8266 to display “Hello World!” On LCD.
-
-4.Design an Interface circuit for OLED with ESP8266 AND Write a Program to display “RVCE” on OLED.
-
-
+| **No** | **Experiment Name** |
+| :---: | :---       |
+| 1     | Design an interface circuit to control LED light by push button switch using ESP8266. |
+| 2     | Design an Interface circuit for LDR (Light Dependent Resistor) with ESP8266 to measure the intensity of light and display it on a Serial monitor. |
+| 3     | Design an Interface circuit with 16X2 LCD AND ESP8266 to display “Hello World!” On LCD. |
+| 4     | Design an Interface circuit for OLED with ESP8266 AND Write a Program to display “RVCE” on OLED. |
