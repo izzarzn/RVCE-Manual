@@ -1,3 +1,11 @@
+<h1 align="center"> SST TECHNOLOGIES </h1> 
+
+<p align="center">
+  <img width="350" height="220" src="https://user-images.githubusercontent.com/65058286/155170090-623b24c1-d897-44e5-987c-2a99a6aed4b7.png">
+</p>
+
+
+
 <p align="center">
   <img width="120" height="120" src="https://user-images.githubusercontent.com/65058286/155003564-aeb7e47c-2d78-46cc-bc4d-f1583c85a2f8.png">
 </p>
