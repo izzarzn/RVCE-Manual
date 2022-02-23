@@ -22,7 +22,7 @@
 |3| Design an Interface circuit with 16X2 LCD AND ESP8266 to display “Hello World!” On LCD. |
 |4| Design an Interface circuit for OLED with ESP8266 and Write a Program to display “RVCE” on OLED. |
 |5| Design an interface circuit to rotate DC Motor in Clockwise and Anticlockwise direction using ESP8266 and demonstrate  the same. |
-|6| DESIGN an Interface circuit for Ultrasonic Sensor (HC-SR04) with ESP8266. Write a program to measure the distance and display it on LCD. |
+|6| Design an Interface circuit for Ultrasonic Sensor (HC-SR04) with ESP8266. Write a program to measure the distance and display it on LCD. |
 |7| Interface Bluetooth (HC-05) and LED with ESP8266. Write interfacing to Control LED (On/Off) using Bluetooth Serial Controller App. |
 |8| Design an Interface circuit for DHT11 (Temperature and Humidity) Sensor with ESP8266. Write a Program to display Temperature and Humidity on Serial Monitor. |
 |9| Design an Interface for DHT11 (Temperature and Humidity) Sensor with ESP8266. Write Program to display temperature and humidity on Blynk App. (Using Blynk Server).
@@ -55,6 +55,51 @@
 | :---- |
 | Design an Interface circuit for OLED with ESP8266 and Write a Program to display “RVCE” on OLED.|
 |Source Code|
+
+------
+|  **Experiment-5** |
+| :---- |
+| Design an interface circuit to rotate DC Motor in Clockwise and Anticlockwise direction using ESP8266 and demonstrate  the same.|
+|Source Code|
+
+------
+
+|  **Experiment-6** |
+| :---- |
+| Design an Interface circuit for Ultrasonic Sensor (HC-SR04) with ESP8266. Write a program to measure the distance and display it on LCD.|
+|Source Code|
+
+-------
+
+|  **Experiment-7** |
+| :---- |
+| Interface Bluetooth (HC-05) and LED with ESP8266. Write interfacing to Control LED (On/Off) using Bluetooth Serial Controller App.|
+|Source Code|
+
+-------
+|  **Experiment-8** |
+| :---- |
+| Design an Interface circuit for DHT11 (Temperature and Humidity) Sensor with ESP8266. Write a Program to display Temperature and Humidity on Serial Monitor.|
+|Source Code|
+
+-------
+
+|  **Experiment-9** |
+| :---- |
+| Design an Interface for DHT11 (Temperature and Humidity) Sensor with ESP8266. Write Program to display temperature and humidity on Blynk App. (Using Blynk Server).|
+|Source Code|
+
+-------
+
+|  **Experiment-10** |
+| :---- |
+| Design and Implement Smart Street light.|
+|Source Code|
+
+----------
+
+
+
 
 
 
