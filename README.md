@@ -7,7 +7,11 @@
 
 <h2 align="center"> RV COLLEGE OF ENGINEERING </h2> <p align="center"> (An Autonomous Institution Affiliated to VTU Belagavi ) <br> Approved by AICTE, New Delhi, Accridiated By NBA, New Delhi <br> RV Vidyaniketan Post, 8th Mile, Mysore Road, Bengaluru-560059  </p>
 
+------
+
 <h3 align="center"> IDEA LAB MANUAL </h3>
+
+------
 
  ### List of Experiments
 
@@ -23,3 +27,35 @@
 |8| Design an Interface circuit for DHT11 (Temperature and Humidity) Sensor with ESP8266. Write a Program to display Temperature and Humidity on Serial Monitor. |
 |9| Design an Interface for DHT11 (Temperature and Humidity) Sensor with ESP8266. Write Program to display temperature and humidity on Blynk App. (Using Blynk Server).
 |10|Design and Implement Smart Street light.|
+
+*****
+
+|  **Experiment-1** |
+| :---- |
+| Design an interface circuit to control LED light by push button switch using ESP8266. |
+|Source Code|
+
+------
+
+|  **Experiment-2** |
+| :---- |
+| Design an Interface circuit for LDR (Light Dependent Resistor) with ESP8266 to measure the intensity of light and display it on a Serial monitor.|
+|Source Code|
+
+--------
+
+|  **Experiment-3** |
+| :---- |
+|Design an Interface circuit with 16X2 LCD AND ESP8266 to display “Hello World!” On LCD. |
+|Source Code|
+
+------
+
+|  **Experiment-4** |
+| :---- |
+| Design an Interface circuit for OLED with ESP8266 and Write a Program to display “RVCE” on OLED.|
+|Source Code|
+
+
+
+
