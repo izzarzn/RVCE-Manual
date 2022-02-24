@@ -99,8 +99,7 @@
 
 ----------
 
-### SetUp Guide Blynk LED
-[Click Here](https://github.com/izzarzn/SST-IoT-BOARD/blob/3768532b86f1d1e08ad815855465690acc84b11b/Blynk_Led.md)
+
 
 
 
