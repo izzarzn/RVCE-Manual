@@ -101,7 +101,7 @@
 
 ## SST IoT Board Pin Description
 
-| **Components** | **GPIO PIN** |
+| **Components** | **GPIO PIN DESCRIPTION FOR EXPERIMENTS** |
 |:----:|:----:|
 | ON Board LED | 2, 16 |
 | LDR | A0 |
