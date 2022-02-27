@@ -92,7 +92,7 @@
 | Design an Interface for DHT11 (Temperature and Humidity) Sensor with ESP8266. Write Program to display temperature and humidity on Blynk App. (Using Blynk Server).|
 |[Setup Guide](https://github.com/izzarzn/SST-IoT-BOARD/blob/5fa27d5f34ef5e6833a5d69e9005d5dfb1afea93/Blynk_DHT.md)|
 |[Source Code](https://github.com/izzarzn/RVCE-Manual/blob/94ef63b9c9fe9ae468acf2d3060a2d55740334e0/9_DHT_BLYNK/9_DHT_BLYNK.ino)|
-|Libraries Required : [DHT Sensor Library](https://drive.google.com/file/d/1eDuCmOvs0aS2-cOM3Y6uwA2pFL5xTL8I/view?usp=sharing), [Adafruit Sensor](https://drive.google.com/file/d/1okmOH2KF86dvLCkO8pvlgU7RvKLZD901/view?usp=sharing),[Blynk](https://drive.google.com/file/d/1RkxFEKhCNocyC1sYLHFnTCQKjrI8KkbO/view?usp=sharing)|
+|Libraries Required : [DHT Sensor Library](https://drive.google.com/file/d/1eDuCmOvs0aS2-cOM3Y6uwA2pFL5xTL8I/view?usp=sharing), [Adafruit Sensor](https://drive.google.com/file/d/1okmOH2KF86dvLCkO8pvlgU7RvKLZD901/view?usp=sharing), [Blynk](https://drive.google.com/file/d/1RkxFEKhCNocyC1sYLHFnTCQKjrI8KkbO/view?usp=sharing)|
 
 -------
 
