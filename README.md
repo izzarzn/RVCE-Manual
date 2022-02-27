@@ -48,14 +48,14 @@
 | :---- |
 |Design an Interface circuit with 16X2 LCD AND ESP8266 to display “Hello World!” On LCD. |
 |[Source Code](https://github.com/izzarzn/RVCE-Manual/blob/6207b3f7b1e30fa924de8a40a5b89c448f7b4220/3_LCD/3_LCD.ino)|
-|Libraries Required : LiquidCrystal I2C|
+|Libraries Required : [LiquidCrystal I2C](https://drive.google.com/file/d/1HvLhhUfPdMpollQjFgATW0Y9pEnIQhQr/view?usp=sharing)|
 ------
 
 |  **Experiment-4** |
 | :---- |
 | Design an Interface circuit for OLED with ESP8266 and Write a Program to display “RVCE” on OLED.|
 |[Source Code](https://github.com/izzarzn/RVCE-Manual/blob/539059b5ecbdcd9cb0056e76f2f6ead6e96bf82b/4_OLED/4_OLED.ino)|
-|Libraries Required : U8g2|
+|Libraries Required : [U8g2]()|
 
 ------
 |  **Experiment-5** |
@@ -69,7 +69,7 @@
 | :---- |
 | Design an Interface circuit for Ultrasonic Sensor (HC-SR04) with ESP8266. Write a program to measure the distance and display it on LCD.|
 |[Source Code](https://github.com/izzarzn/RVCE-Manual/blob/94ef63b9c9fe9ae468acf2d3060a2d55740334e0/6_ULTRASONIC/6_ULTRASONIC.ino)|
-|Libraries Required : New Ping|
+|Libraries Required : [New Ping](https://drive.google.com/file/d/1eh5Y6EqwtD2sXDX7yacBk1t8MQLcMzoj/view?usp=sharing)|
 
 -------
 
@@ -83,7 +83,7 @@
 | :---- |
 | Design an Interface circuit for DHT11 (Temperature and Humidity) Sensor with ESP8266. Write a Program to display Temperature and Humidity on Serial Monitor.|
 |[Source Code](https://github.com/izzarzn/RVCE-Manual/blob/94ef63b9c9fe9ae468acf2d3060a2d55740334e0/8_DHT_Serial/8_DHT_SERIAL.ino)|
-|Libraries Required : DHT Sensor Library, Adafruit|
+|Libraries Required: [DHT Sensor Library](https://drive.google.com/file/d/1eDuCmOvs0aS2-cOM3Y6uwA2pFL5xTL8I/view?usp=sharing), [Adafruit Sensor](https://drive.google.com/file/d/1okmOH2KF86dvLCkO8pvlgU7RvKLZD901/view?usp=sharing)|
 
 -------
 
@@ -92,7 +92,7 @@
 | Design an Interface for DHT11 (Temperature and Humidity) Sensor with ESP8266. Write Program to display temperature and humidity on Blynk App. (Using Blynk Server).|
 |[Setup Guide](https://github.com/izzarzn/SST-IoT-BOARD/blob/5fa27d5f34ef5e6833a5d69e9005d5dfb1afea93/Blynk_DHT.md)|
 |[Source Code](https://github.com/izzarzn/RVCE-Manual/blob/94ef63b9c9fe9ae468acf2d3060a2d55740334e0/9_DHT_BLYNK/9_DHT_BLYNK.ino)|
-|Libraries Required : DHT Sensor Library, Adafruit|
+|Libraries Required : [DHT Sensor Library](https://drive.google.com/file/d/1eDuCmOvs0aS2-cOM3Y6uwA2pFL5xTL8I/view?usp=sharing), [Adafruit Sensor](https://drive.google.com/file/d/1okmOH2KF86dvLCkO8pvlgU7RvKLZD901/view?usp=sharing) [Blynk](https://drive.google.com/file/d/1RkxFEKhCNocyC1sYLHFnTCQKjrI8KkbO/view?usp=sharing)|
 
 -------
 
