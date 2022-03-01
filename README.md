@@ -38,7 +38,7 @@
 | LDR | A0 |
 | LCD | SCL - 5, SDA - 4 |
 | OLED | 4, 5 |
-|DC Motor | 16, 5|
+|DC Motor | M1- 16, 5 M2- 4,2|
 |Ultra Sonic Sensor | Trigger-12, Echo-14 |
 |Bluetooth| RX-14, TX-12 |
 |DHT 11| 2 |
