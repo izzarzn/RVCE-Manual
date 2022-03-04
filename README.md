@@ -38,7 +38,7 @@
 | LDR | A0 |
 | LCD | SCL - 5, SDA - 4 |
 | OLED | 4, 5 |
-|DC Motor | M1- 16, 5 M2- 4,2|
+|DC Motor | Motor 1- 16, 5 Motor 2- 4,2|
 |Ultra Sonic Sensor | Trigger-12, Echo-14 |
 |Bluetooth| RX-14, TX-12 |
 |DHT 11| 2 |
@@ -134,4 +134,4 @@
 |[Procedure](https://github.com/izzarzn/RVCE-Manual/blob/37e183f1b3ca749f93e21dc971b0513503ead100/10.md)|
 
 ----------
-### You can Download the Manual [here]()
+### You can Download the Manual [here](https://drive.google.com/file/d/1KywH33j98vuidNgq_jzU7-x80zo8vG4K/view?usp=sharing)
