@@ -1,17 +1,17 @@
 # Program to Control LED by Bluetooth HC-05 Module
 
-## Attach the Bluetooth Module and Upload the Program to the Board
+## Attach the `Bluetooth Module` and Upload the Program to the Board
 
-### Download the Bluetooth Serial Controller 16 App from Google Play Store on your Mobile.(Only available for Android Devices)
+### Download the `Bluetooth Serial Controller 16` App from `Google Play Store` on your Mobile.(Only available for Android Devices)
 ![1](https://user-images.githubusercontent.com/65058286/158222032-e49dbbf5-5b8d-4138-987a-c817fd6c1e53.jpg)
 
-### After opening press on Continue
+### After opening press on `Continue`
 ![2](https://user-images.githubusercontent.com/65058286/158222137-53191270-56e8-45c7-855d-95bdafac5b7b.jpg)
 
-### Click on PREFERENCE
+### Click on `PREFERENCE`
 ![3](https://user-images.githubusercontent.com/65058286/158222213-f02a78e5-4ce9-41cf-9cdc-36e63fb169a2.jpg)
 
-### Click on Visibility
+### Click on `Visibility`
 ![4](https://user-images.githubusercontent.com/65058286/158222304-95bbe89e-1b34-4c1f-8801-d720ba716e4a.jpg)
 
 ### In Visibility Uncheck buttons from 3 to 16 ( We use only two buttons for ON/OFF )
