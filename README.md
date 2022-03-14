@@ -104,6 +104,7 @@
 |  **Experiment-7** |
 | :---- |
 | Interface Bluetooth (HC-05) and LED with ESP8266. Write interfacing to Control LED (On/Off) using Bluetooth Serial Controller App.|
+|[Setup Guide](https://github.com/izzarzn/RVCE-Manual/blob/a236b30c7b8ccad93dbdc48e185bc2af4051501f/Bluetooth.md)|
 |[Source Code](https://github.com/izzarzn/RVCE-Manual/blob/94ef63b9c9fe9ae468acf2d3060a2d55740334e0/7_BLUETOOTH/7_BLUETOOTH.ino)|
 |[Procedure](https://github.com/izzarzn/RVCE-Manual/blob/37e183f1b3ca749f93e21dc971b0513503ead100/7.md)|
 
