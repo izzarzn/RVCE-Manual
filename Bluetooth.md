@@ -51,4 +51,4 @@
 ### Now select your Device the Status in the left side of your app changes to connected.
 ![17](https://user-images.githubusercontent.com/65058286/158224168-c0b0baec-7a0f-47fe-bfce-a5281240bd7d.jpg)
 
-### 
+### Once Connected you can control the LED from Your Mobile Phone using the ON/OFF Button in the Bluetooh Serial Controller 16 App.
