@@ -135,7 +135,7 @@
 |[Procedure](https://github.com/izzarzn/RVCE-Manual/blob/37e183f1b3ca749f93e21dc971b0513503ead100/10.md)|
 
 ----------
-### In Case of 'PORT Error' Download and Install the following Drivers. 
+#### In Case of `PORT Error` Download and Install the following Drivers. 
 
 |**External Drivers**| **Links** |
 |:-------:|:-------: |
