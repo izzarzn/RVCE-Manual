@@ -135,4 +135,12 @@
 |[Procedure](https://github.com/izzarzn/RVCE-Manual/blob/37e183f1b3ca749f93e21dc971b0513503ead100/10.md)|
 
 ----------
+### In Case of 'PORT Error' Download and Install the following Drivers. 
+
+|**External Drivers**| **Links** |
+|:-------:|:-------: |
+|CP210x Driver | [Click Here](CP210x_Windows_Drivers.zip)|
+|CH340 Driver | [Click Here](CH341SER.zip)|
+
+------------
 #### You can Download the Manual [here](https://drive.google.com/file/d/1KywH33j98vuidNgq_jzU7-x80zo8vG4K/view?usp=sharing)
