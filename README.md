@@ -140,7 +140,8 @@
 |**External Drivers**| **Links** |
 |:-------:|:-------: |
 |CP210x Driver | [Click Here](CP210x_Windows_Drivers.zip)|
-|CH340 Driver | [Click Here](CH341SER.zip)|
+|CH340 Driver (Windows) | [Click Here](CH341SER.zip)|
+|CH340 Driver (Mac) |[Click Here](CH341SER-MAC.zip) 
 
 ------------
 #### You can Download the Manual [here](https://drive.google.com/file/d/1KywH33j98vuidNgq_jzU7-x80zo8vG4K/view?usp=sharing)
