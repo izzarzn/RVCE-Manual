@@ -145,3 +145,6 @@
 
 ------------
 #### You can Download the Manual [here](https://drive.google.com/file/d/1KywH33j98vuidNgq_jzU7-x80zo8vG4K/view?usp=sharing)
+
+----------
+<h3 align = "center">Don't forget to ⭐ this repo<h3>
